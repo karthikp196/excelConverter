@@ -1,0 +1,4172 @@
+[
+  {
+    "Warehouse": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "Store": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 180527
+    }
+  },
+  {
+    "Foot print": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "Foot print": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "Warehouse": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "Store": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 180527
+    }
+  },
+  {
+    "Store": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 180527
+    }
+  },
+  {
+    "Store": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 180527
+    }
+  },
+  {
+    "Foot print": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "Foot print": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "Warehouse": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "Store": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 180527
+    }
+  },
+  {
+    "Foot print": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "Warehouse": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "Warehouse": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185112
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185119
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185120
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "reliancefootprint",
+      "assignee": 185121
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185122
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "reliancefootprint",
+      "assignee": 185121
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185119
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "reliancefootprint",
+      "assignee": 185121
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185119
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185128
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185128
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185128
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185128
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185128
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180538
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180538
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180538
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180538
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180538
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185129
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185129
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185129
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185129
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185129
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185120
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185128
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185129
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180538
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185119
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185129
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185128
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180538
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185120
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185129
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180538
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185128
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185130
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185130
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "warehouse_nscm",
+      "assignee": 185114
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "warehouse_nscm",
+      "assignee": 185114
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185130
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185130
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "warehouse_nscm",
+      "assignee": 185114
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185130
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "warehouse_nscm",
+      "assignee": 185114
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185130
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "warehouse_nscm",
+      "assignee": 185114
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185133
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185133
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185133
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185133
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185133
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185134
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185133
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185134
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185133
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185133
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "warehouse_nscm",
+      "assignee": 185114
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185134
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185134
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "warehouse_nscm",
+      "assignee": 185114
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185134
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185134
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185134
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185130
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185136
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185136
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185136
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185136
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185136
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "warehouse_nscm",
+      "assignee": 185114
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185136
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185134
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185137
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185137
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185136
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185138
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185138
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185138
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185137
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185138
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185137
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185136
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185137
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185138
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185138
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185137
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185137
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185130
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185138
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185137
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185138
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185139
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185139
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185139
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185139
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185139
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185139
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185139
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185139
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185140
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185140
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185140
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185140
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185140
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185140
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185140
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185140
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 185116
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 185116
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 185116
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 185116
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 185116
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 185116
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 185116
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 185116
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 185116
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 185116
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180530
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 180533
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 180533
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 180533
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 180533
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 180533
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180530
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 180533
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 180533
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 180533
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "engineeringusergroup",
+      "assignee": 180515
+    }
+  },
+  {
+    "DROP-SHIP_1": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180532
+    }
+  },
+  {
+    "DROP-SHIP_1": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180532
+    }
+  },
+  {
+    "DROP-SHIP_1": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180532
+    }
+  },
+  {
+    "DROP-SHIP_1": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180532
+    }
+  },
+  {
+    "DROP-SHIP_1": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180532
+    }
+  },
+  {
+    "DROP-SHIP_1": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180532
+    }
+  },
+  {
+    "DROP-SHIP_1": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180532
+    }
+  },
+  {
+    "DROP-SHIP_1": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180532
+    }
+  },
+  {
+    "DROP-SHIP_1": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180532
+    }
+  },
+  {
+    "DROP-SHIP_1": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180532
+    }
+  },
+  {
+    "DROP-SHIP_1": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180532
+    }
+  },
+  {
+    "RBL_1": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185141
+    }
+  },
+  {
+    "RBL_1": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185141
+    }
+  },
+  {
+    "RBL_1": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185141
+    }
+  },
+  {
+    "RBL_1": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185141
+    }
+  },
+  {
+    "RBL_1": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185141
+    }
+  },
+  {
+    "RBL_1": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185141
+    }
+  },
+  {
+    "RBL_1": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185141
+    }
+  },
+  {
+    "RBL_1": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185141
+    }
+  },
+  {
+    "RBL_1": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185141
+    }
+  },
+  {
+    "RBL_1": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185141
+    }
+  },
+  {
+    "RBL_1": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185141
+    }
+  },
+  {
+    "DROP-SHIP_2": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 185142
+    }
+  },
+  {
+    "DROP-SHIP_2": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 185142
+    }
+  },
+  {
+    "DROP-SHIP_2": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 185142
+    }
+  },
+  {
+    "DROP-SHIP_2": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 185142
+    }
+  },
+  {
+    "DROP-SHIP_2": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 185142
+    }
+  },
+  {
+    "DROP-SHIP_2": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 185142
+    }
+  },
+  {
+    "DROP-SHIP_2": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 185142
+    }
+  },
+  {
+    "DROP-SHIP_2": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 185142
+    }
+  },
+  {
+    "DROP-SHIP_2": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 185142
+    }
+  },
+  {
+    "DROP-SHIP_2": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 185142
+    }
+  },
+  {
+    "DROP-SHIP_2": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 185142
+    }
+  },
+  {
+    "Store": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 180527
+    }
+  },
+  {
+    "Foot print": {
+      "queueKey": "reliancefootprint",
+      "assignee": 185121
+    }
+  },
+  {
+    "Warehouse": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185128
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185133
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180538
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "warehouse_nscm",
+      "assignee": 185114
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185129
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185130
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185136
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185138
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185137
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185120
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "reliancefootprint",
+      "assignee": 185121
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185134
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185139
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185140
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 180533
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 185116
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "reliancefootprint",
+      "assignee": 185121
+    }
+  },
+  {
+    "Foot print": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185120
+    }
+  },
+  {
+    "Store": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 180527
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185128
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180538
+    }
+  },
+  {
+    "Warehouse": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "warehouse_nscm",
+      "assignee": 185114
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185129
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185130
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185134
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185133
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185136
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185140
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185138
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185139
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 180533
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185137
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 185116
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185128
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "Foot print": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "Store": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 180527
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "Warehouse": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "reliancefootprint",
+      "assignee": 185121
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180538
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185120
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185129
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185130
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185134
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "warehouse_nscm",
+      "assignee": 185114
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185133
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185136
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185137
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185139
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185138
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 180533
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 185116
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185140
+    }
+  },
+  {
+    "TRENDS_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "TRENDSWH_SULTANPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "TRENDS WH_PUNE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "FOOTPRINT": {
+      "queueKey": "reliancefootprint",
+      "assignee": 185121
+    }
+  },
+  {
+    "TRENDSWH_HANUMANTAPURA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "Foot print": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "TRENDSWH_TUMKUR": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "DROP-SHIP": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180538
+    }
+  },
+  {
+    "TRENDSWH_HYDERABAD": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185128
+    }
+  },
+  {
+    "TRENDSWH_CHENNAI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185129
+    }
+  },
+  {
+    "Warehouse": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "Store": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 180527
+    }
+  },
+  {
+    "RBL_WAREHOUSE": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "TRENDS_WAREHOUSE": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "AJIOWAREHOUSE_KOLKATA": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "DBS_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185130
+    }
+  },
+  {
+    "OMNITRENDS_EAST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_EAST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185131
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185133
+    }
+  },
+  {
+    "NEXTSCM_WAREHOUSE": {
+      "queueKey": "warehouse_nscm",
+      "assignee": 185114
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_AP": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "AJIO_OMNI_CHANNEL": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "TRENDSWH_KOLKATA": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "TRENDSWH_GUWAHATI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_3_TN": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185137
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_1_TG": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185135
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_2_KA": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185136
+    }
+  },
+  {
+    "OMNITRENDS_SOUTH_4_KL": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185138
+    }
+  },
+  {
+    "AJIO_WAREHOUSE": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185120
+    }
+  },
+  {
+    "TRENDSWH_BADLI": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185134
+    }
+  },
+  {
+    "MARKETPLACE": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "OMNITRENDS_WEST_2": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "OMNITRENDS_WEST_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185139
+    }
+  },
+  {
+    "OMNITRENDS_NORTH_1": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185132
+    }
+  },
+  {
+    "REL_JEWELS": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 185116
+    }
+  },
+  {
+    "OMNITRENDS_WEST_3": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185140
+    }
+  },
+  {
+    "AJIOLUX": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "REL_JEWELS_DC": {
+      "queueKey": "Reliance Jewels",
+      "assignee": 180533
+    }
+  },
+  {
+    "DROP-SHIP_1": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 180532
+    }
+  },
+  {
+    "DROP-SHIP_2": {
+      "queueKey": "dropshipusergroup",
+      "assignee": 185142
+    }
+  },
+  {
+    "RBL_1": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185141
+    }
+  },
+  {
+    " ": {
+      "queueKey": null,
+      "assignee": null
+    }
+  }
+]

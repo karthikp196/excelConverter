@@ -1,0 +1,632 @@
+[
+  {
+    "1345719": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "1345719": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 180527
+    }
+  },
+  {
+    "1345719": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "1345763": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "1345763": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "1345763": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 180527
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 180527
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 180527
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 180527
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "reliancefootprint",
+      "assignee": 180521
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 180517
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185112
+    }
+  },
+  {
+    "1345763": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "reliancefootprint",
+      "assignee": 185121
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185122
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "reliancefootprint",
+      "assignee": 185121
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185119
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "omnichannel_trends",
+      "assignee": 185117
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "reliancefootprint",
+      "assignee": 185121
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "warehouseusergroup",
+      "assignee": 185119
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "omnichannel_Fulfilment_user_group",
+      "assignee": 185118
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "marketplaceusergroup",
+      "assignee": 185113
+    }
+  },
+  {
+    "1345821": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345821": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345821": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345821": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345821": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345905": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345907": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345909": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345909": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345907": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345909": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345907": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345907": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345905": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345905": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345905": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345907": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345905": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345909": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345911": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345909": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345911": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345913": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345911": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345911": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345911": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345913": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345915": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345913": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345913": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345915": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345913": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345915": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345915": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345915": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345917": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345917": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345917": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345917": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345917": {
+      "queueKey": "customercaremanagergroup",
+      "assignee": 180525
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "1345853": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "1345719": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "1345763": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "1345763": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "1345719": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "1345719": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "1345763": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "1345763": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "1345763": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "1345719": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "1345719": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "1345763": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "1345719": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 180531
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185124
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185126
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185127
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185123
+    }
+  },
+  {
+    "1345831": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185125
+    }
+  },
+  {
+    "1345828": {
+      "queueKey": "warehouseuser_trends",
+      "assignee": 185128
+    }
+  }
+]
